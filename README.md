@@ -1,14 +1,26 @@
-### Lucas Rodrigues Estefano !👋
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o  Lucas Estefano 💀</h1>
+<h3 align="center">Estudante de Desenvolvimento Web Full Stack 👨‍💻</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasg13info" alt="maykbrito" /> </p>
+
+<img src="https://komarev.com/ghpvc/?username=lucasg13info" alt="lucasg13info"/>
+
+<h2>Para contato:</h2> 
+
+[![Linkedin Badge](https://img.shields.io/badge/-lucasg13info-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-rodrigues-estefano-ab96bb146/)](https://www.linkedin.com/in/lucas-rodrigues-estefano-ab96bb146/) 
+
+[![Gmail Badge](https://img.shields.io/badge/-lucccasestefano1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucccasestefano1@gmail.com)](mailto:lucccasestefano1@gmail.com)
 
 
-Here are some ideas to get you started:
+📫 **lucccasestefano1@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 Bacharel em Ciência da Computação
+- 👨‍💻 Analista de TI
+- 🏗️ Estudante de Desenvolvimento Web Full Stack
+- 🐧 Linux, Redes, Servidores e Virtualização  
+- 💀 Militar da reserva 🇧🇷
+- 🥋 Faixa Roxa de Jiu-Jitsu
+
+
+⚡ Tecnologias: **HTML, Css, JavaScrip, NodeJS, PHP, Booststrap, Git , MySQL, Linux e Shell.** 
+
+<img src="https://github-readme-stats.vercel.app/api?username=lucasg13info&show_icons=true" alt="lucasg13info"/> 
