@@ -8,7 +8,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucccasestefano1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucccasestefano1@gmail.com)](mailto:lucccasestefano1@gmail.com)
 
 
+
 <p>Portifólio: https://lucasreinfo.online/ 🏗️</p>
+
 
 
 - 👨‍🎓 Bacharel em Ciência da Computação
