@@ -11,6 +11,7 @@
 <p>Portifólio: https://lucasreinfo.online/ 🏗️</p>
 
 
+
 - 👨‍🎓 Bacharel em Ciência da Computação
 - 👨‍💻 Analista de TI
 - 🏗️ Estudante de Desenvolvimento Web Full Stack
