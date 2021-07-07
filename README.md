@@ -21,7 +21,7 @@
 - 🥋 Faixa Roxa de Jiu-Jitsu
 
 
-⚡ Tecnologias: **HTML, Css, JavaScrip, NodeJS, Express, ReactJS, PHP, Python, Booststrap, Git , MySQL, Firebase, Linux, Shell, Asterisk e Voip.** 
+⚡ Tecnologias: ** JavaScrip, PHP, Python, HTML, Css, NodeJS, Express, ReactJS, Booststrap, Git , MySQL, Firebase, Linux, Shell, Asterisk e Voip.** 
 
 <img src="https://komarev.com/ghpvc/?username=lucasg13info" alt="lucasg13info"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasg13info&show_icons=true" alt="lucasg13info"/> 
