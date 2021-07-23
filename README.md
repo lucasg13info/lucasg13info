@@ -1,7 +1,7 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou o  Lucas Estefano 💀</h1>
 
 
-<h3 align="center">Estudante de Desenvolvimento Web Full Stack 👨‍💻</h3>
+<h3 align="center">Desenvolvedor Web Full Stack 👨‍💻</h3>
 
 
 <h3>Para contato:</h3> 
@@ -14,14 +14,14 @@
 
 
 - 👨‍🎓 Bacharel em Ciência da Computação
-- 👨‍💻 Analista de TI
-- 🏗️ Estudante de Desenvolvimento Web Full Stack
+- 👨‍💻 Desenvolvedor WEB
 - 🐧 Linux, Redes, Servidores e Virtualização  
 - 💀 Militar da reserva 🇧🇷
 - 🥋 Faixa Roxa de Jiu-Jitsu
 
 
-⚡ Tecnologias: JavaScrip, PHP, Python, HTML, Css, NodeJS, Express, ReactJS, Booststrap, Git , MySQL, Firebase, Linux, Shell, Asterisk e Voip.
+⚡ Tecnologias: JavaScrip, PHP, Python, HTML, Css, NodeJS, Express, ReactJS, Booststrap, Laravel, Git , MySQL, Firebase, Linux, Shell, Asterisk e Voip.
+
 
 <img src="https://komarev.com/ghpvc/?username=lucasg13info" alt="lucasg13info"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasg13info&show_icons=true" alt="lucasg13info"/> 
