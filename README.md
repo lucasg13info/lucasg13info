@@ -9,6 +9,7 @@
 
 <p>Portifólio: https://lucasreinfo.online/ 🏗️</p>
 
+
 - 👨‍🎓 Bacharel em Ciência da Computação
 - 👨‍💻 Desenvolvedor WEB
 - 🐧 Linux, Redes, Servidores e Virtualização  
