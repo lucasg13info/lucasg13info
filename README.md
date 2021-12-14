@@ -12,10 +12,9 @@
 - 👨‍🎓 Bacharel em Ciência da Computação
 - 👨‍💻 Desenvolvedor WEB
 - 🐧 Linux, Redes, Servidores e Virtualização  
-- 💀 Militar da reserva 🇧🇷
-- 🥋 Faixa Roxa de Jiu-Jitsu
+- 🥋 Faixa marrom de Jiu-Jitsu
 
-⚡ Tecnologias: Angular, JavaScrip, PHP, Python, HTML, Css, NodeJS, Express, ReactJS, Booststrap, Laravel, Git , MySQL, Firebase, Linux, Shell, Asterisk, Voip, Docker e Kubernates.
+⚡ Tecnologias: Angular, JavaScrip, PHP, Python, HTML, Css, NodeJS, Express, Booststrap, Laravel, Git , MySQL, Firebase, Linux, Shell, Asterisk, Voip, Docker e Kubernates.
 
 <img src="https://komarev.com/ghpvc/?username=lucasg13info" alt="lucasg13info"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasg13info&show_icons=true" alt="lucasg13info"/> 
