@@ -13,7 +13,7 @@
 - 🐧 Linux, Redes, Servidores e Virtualização  
 - 🥋 Faixa marrom de Jiu-Jitsu
 
-⚡ Tecnologias: NodeJS, React, Angular, JavaScrip, PHP, Python, HTML, Css, Express, Booststrap, Laravel, Git , MySQL, Firebase, Linux, Shell, Asterisk, Voip, Docker e Kubernates.
+⚡ Tecnologias: Node.js, Python, PHP, API, React , React-Native, HTML, Css, JavaScript, MySql, SqlServer, Firebase, Linux, AWS, Docker, Git, GitFlow, Scrum, Strapi, WordPress, Network, virtualization e Asterisk.
 
 <img src="https://komarev.com/ghpvc/?username=lucasg13info" alt="lucasg13info"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasg13info&show_icons=true" alt="lucasg13info"/> 
