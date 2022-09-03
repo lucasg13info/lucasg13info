@@ -8,7 +8,6 @@
 
 <p>Portifólio: https://lucasrestefano.com.br 🏗️</p>
 
-
 - 👨‍🎓 Bacharel em Ciência da Computação
 - 👨‍💻 Desenvolvedor WEB
 - 🐧 Linux, Redes, Servidores e Virtualização  
