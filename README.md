@@ -13,7 +13,7 @@
 - 👨‍🎓 Bacharel em Ciência da Computação
 - 👨‍💻 Desenvolvedor WEB
 - 🐧 Linux, Redes, Servidores e Virtualização  
-- 🥋 Faixa marrom de Jiu-Jitsu
+- 🥋 Faixa preta de Jiu-Jitsu
 
 ⚡ Tecnologias: Node.js, Python, PHP, API, React , React-Native, HTML, Css, JavaScript, MySql, SqlServer, Firebase, Linux, AWS, Docker, Git, GitFlow, Scrum, Strapi, WordPress, Network, virtualization e Asterisk.
 
