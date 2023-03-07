@@ -14,7 +14,7 @@
 - 👨‍💻 Desenvolvedor WEB
 - 🐧 Linux, Redes, Servidores e Virtualização  
 
-⚡ Tecnologias: Node.js, Python, PHP, React, HTML, Css, JavaScript, MySql, SqlServer, Firebase, Linux, AWS, Docker, Git, GitFlow, Scrum, Strapi, WordPress, Network, virtualization e Asterisk.
+⚡ Tecnologias: Python, Node.js, PHP, React, HTML, Css, JavaScript, MySql, SqlServer, Firebase, Linux, AWS, Docker, Git, Scrum, Strapi, WordPress, Network, virtualization e Asterisk.
 
 <img src="https://komarev.com/ghpvc/?username=lucasg13info" alt="lucasg13info"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasg13info&show_icons=true" alt="lucasg13info"/> 
