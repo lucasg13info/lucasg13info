@@ -1,5 +1,5 @@
-<h1 align="center">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, sou o  Lucas Estefano 💀</h1>
-<h3 align="center">Desenvolvedor Web Full Stack 👨‍💻</h3>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm Lucas Estefano </h1>
+<h3 align="center">Software Engineer</h3>
 
 
 <h3>Contatos:</h3>
