@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm Lucas Estefano </h1>
+<h1 align="center">Hi I'm Lucas Estefano </h1>
 <h3 align="center">Software Engineer</h3>
 
 
@@ -8,13 +8,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucccasestefano1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucccasestefano1@gmail.com)](mailto:lucccasestefano1@gmail.com)
 
 
-<p>Portifólio: https://lucasrestefano.com.br 🏗️</p>
+<p>Posts: https://lucasrestefano.blog 🏗️</p>
 
-- 👨‍🎓 Bacharel em Ciência da Computação
-- 👨‍💻 Desenvolvedor WEB
-- 🐧 Linux, Redes, Servidores e Virtualização  
+- 👨‍🎓 Bachelor's in Computer Science
+- 👨‍💻 Software Engineer
+- 🐧 Linux, Network, Servers  
 
-⚡ Tecnologias: Python, Node.js, PHP, React, HTML, Css, JavaScript, MySql, SqlServer, Firebase, Linux, AWS, Docker, Git, Scrum, Strapi, WordPress, Network, virtualization e Asterisk.
+⚡ Skills: .Net, C#, ASP.Net, Python, Node.js, PHP, HTML, Css, JavaScript, MySql, SqlServer, Firebase, Linux, AWS, Docker, Git, Scrum, Strapi, WordPress, Network, Asterisk.
 
 <img src="https://komarev.com/ghpvc/?username=lucasg13info" alt="lucasg13info"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasg13info&show_icons=true" alt="lucasg13info"/> 
