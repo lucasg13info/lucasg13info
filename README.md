@@ -1,5 +1,5 @@
-<h1 align="center">Hi I'm Lucas Estefano </h1>
-<h3 align="center">Software Engineer</h3>
+
+<h2 align="center">Software Engineer</h2>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-lucasg13info-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-rodrigues-estefano-ab96bb146/)](https://www.linkedin.com/in/lucas-rodrigues-estefano-ab96bb146/) 
