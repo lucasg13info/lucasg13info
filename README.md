@@ -10,7 +10,6 @@
 
 - 👨‍🎓 Bachelor's in Computer Science
 - 👨‍💻 Software Engineer
-- 🐧 Linux, Network, Servers  
 
 ⚡ Skills: Python, Node.js, PHP, Kotlin, JavaScript, SQL, Linux, AWS, Docker, Git, Scrum, Strapi, WordPress.
 
