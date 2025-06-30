@@ -11,7 +11,7 @@
 - 👨‍🎓 Bachelor's in Computer Science
 - 👨‍💻 Software Engineer
 
-⚡ Skills: Python, Node.js, PHP, Kotlin, JavaScript, SQL, Linux, AWS, Docker, Git, Scrum, Strapi, WordPress.
+⚡ Skills: Java, Python, Node.js, PHP, Kotlin, JavaScript, SQL, Linux, AWS, Docker, Git, Scrum, Strapi, WordPress.
 
 <img src="https://komarev.com/ghpvc/?username=lucasg13info" alt="lucasg13info"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasg13info&show_icons=true" alt="lucasg13info"/> 
