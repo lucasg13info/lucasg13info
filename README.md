@@ -14,9 +14,7 @@
 
 ### 🚀 About Me
 
-I'm a Software Engineer with **6+ years of experience** building robust backend systems and, more recently, **AI-powered applications** — RAG pipelines, LLM integrations (OpenAI, Claude), and workflow automation with N8N.
-
-Currently working part-time as a **DevOps Engineer** on an Australian government project, while developing my own products on the side.
+I'm a Software Engineer with **6+ years of experience** building robust backend systems and, more recently, **AI-powered applications** RAG pipelines, LLM integrations (OpenAI, Claude), and workflow automation with N8N.
 
 - 🎓 Bachelor's in Computer Science
 - ☁️ AWS certifications in progress
