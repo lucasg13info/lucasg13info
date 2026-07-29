@@ -1,7 +1,3 @@
-
-<h2 align="center">Software Engineer</h2>
-
-
 <h1 align="center">Hi, I'm Lucas Estefano 👋</h1>
 <h3 align="center">AI Software Engineer | Backend & DevOps | Building intelligent systems</h3>
 
@@ -22,10 +18,10 @@ I'm a Software Engineer with **6+ years of experience** building robust backend 
 
 Currently working part-time as a **DevOps Engineer** on an Australian government project, while developing my own products on the side.
 
-- 🎓 Bachelor's in Computer Science (UNIP, Brazil)
+- 🎓 Bachelor's in Computer Science
 - ☁️ AWS certifications in progress
-- 🥋 Black belt in Jiu-Jitsu & instructor since arriving in Australia
-- 🌏 Based in Australia — building my path to Permanent Residency
+- 🥋 Black belt in Jiu-Jitsu
+- 🌏 Based in Australia
 - ✍️ I write about tech at [lucasrestefano.blog](https://lucasrestefano.blog)
 
 ---
