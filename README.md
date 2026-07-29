@@ -30,7 +30,7 @@ Currently working part-time as a **DevOps Engineer** on an Australian government
 
 - 🏋️ **Gym SaaS** — gym management platform (Next.js, Supabase, Stripe, N8N)
 - 🥋 **BJJ Scoreboard** — live scoreboard system for Jiu-Jitsu competitions (migrating vanilla JS → React)
-- 🍷 **Automations** — N8N + AI
+- 🍷 **Automations** — N8N, Zapier, Make + AI
 
 ---
 
