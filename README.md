@@ -17,8 +17,7 @@
 I'm a Software Engineer with **6+ years of experience** building robust backend systems and, more recently, **AI-powered applications** RAG pipelines, LLM integrations (OpenAI, Claude), and workflow automation with N8N.
 
 - 🎓 Bachelor's in Computer Science
-- ☁️ AWS certifications in progress
-- 🥋 Black belt in Jiu-Jitsu
+- ☁️ AWS and Azure 
 - 🌏 Based in Australia
 - ✍️ I write about tech at [lucasrestefano.blog](https://lucasrestefano.blog)
 
@@ -26,9 +25,8 @@ I'm a Software Engineer with **6+ years of experience** building robust backend 
 
 ### 🛠️ Currently Building
 
-- 🏋️ **Gym SaaS** — gym management platform (Next.js, Supabase, Stripe, N8N)
-- 🥋 **BJJ Scoreboard** — live scoreboard system for Jiu-Jitsu competitions (migrating vanilla JS → React)
-- 🍷 **Automations** — N8N, Zapier, Make + AI
+-  **Gym SaaS** — gym AI management platform
+-  **Automations** — N8N, Zapier, Make + AI and more
 
 ---
 
@@ -53,19 +51,12 @@ I'm a Software Engineer with **6+ years of experience** building robust backend 
 
 **Infra & Tools**
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-**CMS & Delivery**
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white" />
-</p>
 
 ---
 
@@ -73,7 +64,6 @@ I'm a Software Engineer with **6+ years of experience** building robust backend 
 
 <p align="left">
   <a href="mailto:lucccasestefano1@gmail.com">Email</a> ·
-  <a href="https://lucasrestefano.blog">Blog</a>
 </p>
 
 <p align="center"><i>Bringing the discipline of the mats into the code.</i> 🥋</p>
