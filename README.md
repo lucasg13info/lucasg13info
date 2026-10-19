@@ -1,12 +1,9 @@
 <h1 align="center">Hi, I'm Lucas Estefano 👋</h1>
-<h3 align="center">AI Software Engineer | Backend & DevOps | Building intelligent systems</h3>
+<h3 align="center">AI Software Engineer | AI Agents & Automation | Backend & DevOps</h3>
 
 <p align="center">
-  <a href="mailto:lucccasestefano1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://lucasrestefano.blog">
-    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white" />
+  <a href="https://www.linkedin.com/in/lucas-estefano-ab96bb146/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -14,23 +11,28 @@
 
 ### 🚀 About Me
 
-I'm a Software Engineer with **6+ years of experience** building robust backend systems and, more recently, **AI-powered applications** RAG pipelines, LLM integrations (OpenAI, Claude), and workflow automation with N8N.
+I'm a Software Engineer with **6+ years of experience** building robust backend systems and, more recently, **AI agents and automations that run real businesses**: LLM integrations (OpenAI, Claude), RAG pipelines, conversational agents and end-to-end workflow automation.
 
+- 🤖 Building AI agents
 - 🎓 Bachelor's in Computer Science
-- ☁️ AWS and Azure 
-- 🌏 Based in Australia
-- ✍️ I write about tech at [lucasrestefano.blog](https://lucasrestefano.blog)
-
----
-
-### 🛠️ Currently Building
-
--  **Gym SaaS** — gym AI management platform
--  **Automations** — N8N, Zapier, Make + AI and more
+- ☁️ AWS and Azure
+- 🥋 Black belt & Jiu-Jitsu instructor
+- 🌏 Based in Australia (originally from Brazil) · bilingual EN/PT
 
 ---
 
 ### ⚡ Tech Stack
+
+**AI & Automation**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram_API-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</p>
 
 **Languages & Backend**
 <p>
@@ -42,28 +44,31 @@ I'm a Software Engineer with **6+ years of experience** building robust backend 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
-**AI & Automation**
+**Web & SaaS**
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 </p>
 
-**Infra & Tools**
+**Cloud, Infra & Tools**
 <p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
-
 
 ---
 
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:lucccasestefano1@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/lucas-estefano-ab96bb146/">LinkedIn</a> ·
 </p>
 
 <p align="center"><i>Bringing the discipline of the mats into the code.</i> 🥋</p>
