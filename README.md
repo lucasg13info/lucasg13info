@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Lucas Estefano 👋</h1>
 <h3 align="center">AI Software Engineer | AI Agents & Automation | Backend & DevOps</h3>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-estefano-ab96bb146/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -8,6 +9,7 @@
 </p>
 
 ---
+
 
 ### 🚀 About Me
 
